@@ -63,4 +63,11 @@ y <- "192.168.0.1"
 str_split_one(y, pattern = stringr::fixed("."))
 ```
 
+## Example Plot
+
+You can also embed plots, for example:
+
+```{r pressure, echo = FALSE}
+plot(pressure)
+```
 
